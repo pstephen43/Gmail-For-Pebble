@@ -1,0 +1,18 @@
+{
+    "versionLabel": "1.0",
+    "uuid": "52200c99-7947-4511-9a5d-85d0fcde632c",
+    "appKeys": {},
+    "longName": "Pmail",
+    "versionCode": 1,
+    "capabilities": [
+        "configurable"
+    ],
+    "shortName": "Pmail",
+    "companyName": "Boxed Blob Studios",
+    "watchapp": {
+        "watchface": false
+    },
+    "resources": {
+        "media": []
+    }
+}
